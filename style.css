@@ -1,0 +1,21 @@
+body{
+    background-color: #292929;
+}
+.inicio{
+    width: 1460px;
+    height: 75px;
+    background-color: #A9C980;
+    margin: 0px;
+    margin-top: 0px;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    display: inline;
+    margin-left: 24px;
+}
+h1{
+    margin-top: 15px;
+    margin-left: 400px;
+}
